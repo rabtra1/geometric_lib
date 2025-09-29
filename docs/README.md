@@ -31,4 +31,11 @@ print(square.area(8)) # 64
 square.perimeter(a) # Периметр квадрата со стороной a
 print(square.perimeter(10)) # 40
 ```
+### История комитов
+```
 
+commit d2b6c0fde7cd94ae23dfd5a82a641091ccfa4096
+Date: Mon Sep 29 18:20:46 2025 +0300
+message: Added files circle.py and square.py that do math for circle and square. also wrote documentation for all functions and added README.md file
+
+```
