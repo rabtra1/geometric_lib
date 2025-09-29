@@ -31,7 +31,7 @@ print(square.area(8)) # 64
 square.perimeter(a) # Периметр квадрата со стороной a
 print(square.perimeter(10)) # 40
 ```
-### История комитов
+### История коммитов
 ```
 
 commit d2b6c0fde7cd94ae23dfd5a82a641091ccfa4096
